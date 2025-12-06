@@ -1,0 +1,7 @@
+gradio
+sentence-transformers
+transformers
+scikit-learn
+numpy
+pypdf
+torch
